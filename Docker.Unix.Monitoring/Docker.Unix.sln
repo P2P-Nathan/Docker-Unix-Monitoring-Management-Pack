@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D4B43EB3-688B-4EEE-86BD-088F0B28ABB3}") = "Docker.Unix.Monitoring", "Docker.Unix.Monitoring\Docker.Unix.Monitoring.mpproj", "{39272BBE-B288-4976-8454-9C8CC687F4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39272BBE-B288-4976-8454-9C8CC687F4DF}.Debug|x86.ActiveCfg = Debug|x86
+		{39272BBE-B288-4976-8454-9C8CC687F4DF}.Debug|x86.Build.0 = Debug|x86
+		{39272BBE-B288-4976-8454-9C8CC687F4DF}.Release|x86.ActiveCfg = Release|x86
+		{39272BBE-B288-4976-8454-9C8CC687F4DF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4366E1FD-5B02-4997-8ACB-1A2E76D3139E}
+	EndGlobalSection
+EndGlobal
